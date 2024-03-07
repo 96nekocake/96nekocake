@@ -7,3 +7,4 @@
 - [Last.fm](https://www.last.fm/ja/user/NekoCake)
 - [MyAnimeList](https://myanimelist.net/animelist/kuronekocake?status=7&order=4&order2=0)
 - [wakatime](https://wakatime.com/@nekocake)
+- [discogs](https://www.discogs.com/ja/user/kuronekocake)https://www.discogs.com/ja/user/kuronekocake)
