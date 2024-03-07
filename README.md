@@ -1,5 +1,5 @@
 ## なうぷれ
-<img src="https://toru.kio.dev/api/v1/NekoCake" alt="Last.fm Activity" />
+<img src="https://toru.kio.dev/api/v1/NekoCake?theme=nord&blur" alt="Last.fm Activity" />
 
 ## Link
 - [twitter](https://twitter.com/96neko_nify)
